@@ -16,11 +16,11 @@
     "url": "https://github.com/karenlizbeth03/BackendPdf/issues"
   },
   "homepage": "https://github.com/karenlizbeth03/BackendPdf#readme",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "multer": "^2.0.0",
     "pdf-parse": "^1.1.1"
-  }
+  },
+  "description": ""
 }
